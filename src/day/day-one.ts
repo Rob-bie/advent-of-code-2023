@@ -22,5 +22,6 @@ function partTwo(): void {
   }
   console.log(`(2) Sum of values: ${total}`);
 }
+
 partOne();
 partTwo();
